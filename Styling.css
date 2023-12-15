@@ -1,0 +1,17 @@
+.Banner img
+{
+    width: 960px;
+    height: 275px;
+    border-width: 1px solid;
+    /* align-content: center; */
+}
+.navbar nav a
+{
+   
+    /* border-right: 2px solid gray;
+    height: 500px; */
+    text-decoration: none;
+    
+}
+
+
